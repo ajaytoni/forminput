@@ -1,0 +1,24 @@
+/* Element selector */
+h1{
+    color:#7fff00;
+}
+/* class selector */
+.text{
+    color: #0000ff;
+}
+small{
+    color: #00ffff;
+    font-size: 20px;
+}
+/* Id selector */
+#main-title{
+    font-size: 52px;
+}
+h1{
+    text-align: center;
+}
+p{
+    font-size: em;
+    font-family: arial;
+    
+}

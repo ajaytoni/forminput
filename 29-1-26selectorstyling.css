@@ -1,0 +1,11 @@
+/* Element selector */
+h1{
+    color:orange;
+    font-size: 2em;
+}
+/* class selector */
+.text{
+    color:green;
+    font-size: em;
+    font-family: arial;
+}

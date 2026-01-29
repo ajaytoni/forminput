@@ -1,0 +1,32 @@
+/* Element selector */
+h1{
+    color: blue;
+}
+/* Class selector */
+.text{
+    color: green;
+}
+/* Id selector */
+#main-title{
+    font-size: 60px;
+}
+h2{
+    color: red;
+    text-align: center;
+}
+p{
+    font-size: 18px;
+    font-family: arial;
+}
+.box{
+    padding: 15px;
+    border: 2px solid black;
+    margin: 20px;
+    background-color: lightgray;
+}
+.card{
+    background-color: lightblue;
+    border: 3px solid blue;
+    border-radius: 10px;
+    padding: 20px;
+}
