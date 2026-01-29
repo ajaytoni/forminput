@@ -1,0 +1,11 @@
+/* element selector */
+h1{
+    color: #449933;
+}
+/* text selector */
+.text{
+    color: #0000ff;
+}
+body{
+    background-color: yellow;
+}
