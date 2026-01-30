@@ -1,0 +1,8 @@
+.card{
+    display:inline-block;
+    width:120px;
+    height:60px;
+    background-color:pink;
+    margin:10px;
+    text-align: center;
+}
