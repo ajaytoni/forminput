@@ -1,0 +1,26 @@
+P{
+    color: rgb(205, 29, 29);
+}
+h1{
+    color: green;
+    font-size: 34px;
+    text-align: center;
+}
+.box{
+    padding:30px;
+    border: 2px solid black;
+    margin: 2opx;
+    background-color: blueviolet;
+    }
+    .box2{
+        padding: 20px;
+        border: 2px solid rgb(209, 24, 24);
+        margin: 2em;
+        background-color: green;
+    }
+    .card{
+background-color: yellow;
+border: 3px solid violet;
+border-radius: 10px;
+padding-left: 2rem;
+    }
