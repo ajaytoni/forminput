@@ -1,0 +1,15 @@
+/* element selector */
+h1{
+    color: #0000ff;
+    text-align: center;
+    font-size: large;
+}
+/* class selector */
+p{
+    color: #ffa500;
+    font-family: Arial;
+}
+/* class selector */
+.text2{
+    color: green;
+}
