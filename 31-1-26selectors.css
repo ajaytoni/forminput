@@ -1,0 +1,12 @@
+/* element selector */
+h1{
+    color:orange
+}
+/* class selector */
+.text{
+    color: blue;
+    
+}
+.text2{
+    color: blueviolet;
+}

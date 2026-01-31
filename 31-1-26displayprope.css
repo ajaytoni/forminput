@@ -1,0 +1,22 @@
+.box{
+    display:block;
+    background-color: blue;
+    margin: 10px;
+    padding: 5px;
+}
+.text{
+    display:inline;
+    background-color: yellow;
+    padding: 5px;
+}
+.card{
+    display: inline-block;
+    width: 120px;
+    height: 60px;
+    background-color: blueviolet;
+    margin: 10px;
+    text-align: center;
+}
+.hide{
+    display: none;
+}
