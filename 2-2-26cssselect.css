@@ -1,0 +1,26 @@
+/* element selector */
+h1{
+    color:yellow;
+    font-size: 52px;
+    font-family: arial;
+}
+/* class selector */
+.text{
+    color:orange;
+    text-align: center;
+}
+.box{
+    color: blue;
+    padding:25px;
+    border:2px solid green;
+    margin:20px;
+    background-color: orange;
+}
+.box1{
+    color: aqua;
+    padding: 15px;
+    border:2px solid rgb(126, 21, 21);
+    margin:20px;
+    background-color: blue;
+
+}
