@@ -1,0 +1,28 @@
+h1{
+    color: rgb(255, 0, 51);
+    font-size: large;
+    display: block;
+    text-align: center;
+    background-color: rgb(130, 165, 42);
+}
+h2{
+    color:black;
+    font-size: medium;
+    display:inline;
+    background-color: aqua;
+}
+p{
+    color: rgb(64, 43, 226);
+    display:inline-block;
+    font-size: 20px;
+}
+h4{
+    display: none;
+
+}
+h3{
+    color: whitesmoke;
+}
+body{
+    background-color: orange;
+}
