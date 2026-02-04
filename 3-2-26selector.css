@@ -1,0 +1,12 @@
+/* Element selector */
+h1{
+    color: blanchedalmond;
+}
+/* Class selector */
+.text{
+    color:green;
+}
+/* ID selector */
+#main-title{
+    font-size:32px;
+}

@@ -1,0 +1,7 @@
+.relative-box{
+    position: relative;
+    top:20px;
+    left: 20px;
+    background-color: lightgreen;
+    padding: 10px;
+}
