@@ -1,0 +1,11 @@
+.static-box{
+    position: static;
+    background-color: blueviolet;
+    padding:20px
+}
+.relative{
+    position: relative;
+    top:20px;
+    left:10px;
+    background-color: green;
+}

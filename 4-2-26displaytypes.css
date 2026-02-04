@@ -1,0 +1,29 @@
+.box{
+    display: block;
+    background-color: blue;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    }
+    .text{
+        display: inline;
+        background-color: yellow;
+        padding: 10px;
+    }
+    .card{
+        display: inline-block;
+        margin: 2px;;
+        width: 120px;
+        height:60px;
+        background-color: pink;
+    }
+    .card1{
+        dispaly:inline-block;
+        width:120px;
+        height:60px;
+        background-color: blueviolet;
+        margin:2px
+    }
+    .hide1{
+        display:none;
+    }
