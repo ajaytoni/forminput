@@ -1,0 +1,18 @@
+/* element selector */
+h1{
+    color: blue;
+}
+/* class selector */
+.text{
+    color: blueviolet;
+}
+/* id selector */
+#main-title{
+    font-size: 70px;
+}
+.box{
+    padding: 10px;
+    border: 2px solid blue;
+    margin: 2px;
+    background-color: green;
+}

@@ -1,0 +1,24 @@
+.text{
+    display: inline;
+    background-color: brown;
+    padding: 10px;
+}
+.class{
+    display: block;
+    margin: 2px;
+    padding: 10px;
+    background-color: antiquewhite;
+}
+.card{
+    display: inline-block;
+    background-color: blue;
+    padding:20px
+}
+.card1{
+    display: inline-block;
+    background-color: blue;
+    padding:20px
+}
+.hide{
+    display: none;
+}
